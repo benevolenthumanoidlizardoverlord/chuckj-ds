@@ -1,5 +1,5 @@
 # Chuck Jenner's Public Repository
-#### Author: Chuck Jenner
+**Author:** _Chuck Jenner_
 ###### benevolenthumanoidlizardoverlord/chuckj-ds
 This is a public repository containing my data science work, analyses, visualizations, and packages that might be useful to others. Some highlights include:
 1. A reverse geocoder package that maps latitude and longitude to city, county (i.e. level 2 location data), state (i.e. level 1 location data), and country. It outperforms other reverse geocoding packages I could find by ~35x (in terms of runtime). I used it when analyzing a multibillion row dataset of transit data, so speed was imperitive.
